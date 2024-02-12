@@ -1,4 +1,4 @@
-![Frame 10599-2](https://github.com/gamegatornet/web/assets/35841182/314614d1-4dbe-4bc7-ac1b-feaee1ff342f)
+![Frame 10599-2](https://github.com/gamegatornet/.github/assets/35841182/8141088b-c368-47e8-a4b7-a3f53d805792)
 
 ## Hi there 👋
 
