@@ -20,13 +20,17 @@ GameGator compares prices from a multitude of sources. This is our stores & stat
 ![](https://healthchecks.io/badge/787e8634-e44a-48a8-bd4f-6656aa/yDI7I9Lr/epic.svg)
 ![](https://healthchecks.io/badge/787e8634-e44a-48a8-bd4f-6656aa/RyhNg5st/fanatical.svg)
 ![](https://healthchecks.io/badge/787e8634-e44a-48a8-bd4f-6656aa/1BJ2oTjP/gog.svg)
-
-
 ![](https://healthchecks.io/badge/787e8634-e44a-48a8-bd4f-6656aa/hi2wH9Un/greenmangaming.svg)
 ![](https://healthchecks.io/badge/787e8634-e44a-48a8-bd4f-6656aa/nCDLCxrR/hrk.svg)
 ![](https://healthchecks.io/badge/787e8634-e44a-48a8-bd4f-6656aa/RPGacxlA/k4g.svg)
 ![](https://healthchecks.io/badge/787e8634-e44a-48a8-bd4f-6656aa/gTOAql-2/mmoga.svg)
 ![](https://healthchecks.io/badge/787e8634-e44a-48a8-bd4f-6656aa/fv0Gw6KH/steam.svg)
+
+Game data is kept in sync with [IGDB ↗](https://www.igdb.com).
+
+![](https://healthchecks.io/badge/787e8634-e44a-48a8-bd4f-6656aa/RU0EJE8j/igdb.svg)
+
+
 
 
 
