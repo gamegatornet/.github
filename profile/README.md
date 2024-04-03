@@ -23,6 +23,7 @@ GameGator compares prices from a multitude of sources. This is our stores & stat
 ![](https://healthchecks.io/badge/787e8634-e44a-48a8-bd4f-6656aa/hi2wH9Un/greenmangaming.svg)
 ![](https://healthchecks.io/badge/787e8634-e44a-48a8-bd4f-6656aa/nCDLCxrR/hrk.svg)
 ![](https://healthchecks.io/badge/787e8634-e44a-48a8-bd4f-6656aa/RPGacxlA/k4g.svg)
+![](https://healthchecks.io/badge/787e8634-e44a-48a8-bd4f-6656aa/1QN-doTn/kinguin.svg)
 ![](https://healthchecks.io/badge/787e8634-e44a-48a8-bd4f-6656aa/gTOAql-2/mmoga.svg)
 ![](https://healthchecks.io/badge/787e8634-e44a-48a8-bd4f-6656aa/fv0Gw6KH/steam.svg)
 
