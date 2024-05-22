@@ -13,6 +13,9 @@
 * [Open Collective ↗](https://opencollective.com/gamegator)
 
 ### Service Health
+
+![](https://healthchecks.io/badge/787e8634-e44a-48a8-bd4f-6656aa/J0XZI_50/api.svg)
+
 GameGator compares prices from a multitude of sources. This is our stores & statuses.
 
 ![](https://healthchecks.io/badge/787e8634-e44a-48a8-bd4f-6656aa/oqU6UpXs/2game.svg)
