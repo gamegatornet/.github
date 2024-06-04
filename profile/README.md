@@ -34,6 +34,12 @@ Game data is kept in sync with [IGDB ↗](https://www.igdb.com).
 
 ![](https://healthchecks.io/badge/787e8634-e44a-48a8-bd4f-6656aa/RU0EJE8j/igdb.svg)
 
+### Is Steam down?
+
+We have built a [Steam Status page ↗](https://gamegator.net/is-steam-down) to check its status!
+
+
+
 
 
 
