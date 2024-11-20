@@ -16,10 +16,9 @@
 
 We have built a [Steam Status page ↗](https://gamegator.net/is-steam-down) to check its status!
 
+### Changelog
 
+* Wed 20. Nov 24: Find deals from the same franchise - now live on game pages 🚀
 
-
-
-
-
-
+  ![frame](https://github.com/user-attachments/assets/e560501d-f030-41a3-a89d-fb7c01d3844a)
+  Try it out: [Horizon Forbidden West ↗](https://gamegator.net/games/horizon-forbidden-west)
